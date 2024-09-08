@@ -1,7 +1,7 @@
 # 1. Ask the user for their name and age, then greet them by name, and tell them how old they will be in 100 years. Use f-strings, not concatenation.
 
 name = input("What is your name?").capitalize()
-age = input("what is your age?")
+age = int(input("what is your age?"))
 print(f"Hello, {name}, you will be {str(age+100)} in 100 years.")
 
 
