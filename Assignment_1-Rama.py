@@ -10,6 +10,6 @@ print(f"Hello, {name}, you will be {str(age+100)} in 100 years.")
 def tip_calculator(amount,tip_percent):
   return(round(amount+amount*tip_percent*0.01,2))
 cost = float(input("what is the amount in the receipt? "))
-tip = float(input("How much tip would you want to give? E.g 18,20,30 "))
+tip = float(input("How much tip percentage would you want to give? Note:Please avoid entering '%'. E.g 18,20,30 "))
 total = tip_calculator(cost,tip)
-print(total)
+print(f"Your tip will be ${str(tip)} and total amount will be ${str(total)}.")
