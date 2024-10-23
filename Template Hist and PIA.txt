@@ -1,0 +1,31 @@
+VR: ; Initiated on: ; Material: 
+History Check
+History Check search criteria:
+Date range:
+Notification Status: All
+Material Number:
+Keyword:
+
+
+History Check Assessment:
+During  
+The root cause was determined to be. 
+Per risk document Risk ID, failure of the has a severity of . 
+Per 854076 Rev BI Control of Nonconforming Purchased Product, with a severity of , greater than 6 records require a further evaluation. 
+As number of events = , no further action required.
+
+PIA
+During 
+The root cause was determined to be.
+Per risk document Risk ID, failure of the has a severity of .
+Severity = 
+Detection = 
+Occurrence =  (see below)
+Complaint search = :
+Criteria:
+
+Complaints: 
+Total procedures: 
+Probability of Occurrence (PO ) = (/) = ; as PO < 0.5%, O = 1
+RPN =  = 
+The RPN is , below the threshold of 63, and hence the risk of this issue is considered acceptable. Therefore, there is no further product impact, and no additional actions are required. 
